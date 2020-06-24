@@ -1,0 +1,11 @@
+C:\Users\skach\source\repos\exam\exam\bin\x86\Release\exam.exe.config
+C:\Users\skach\source\repos\exam\exam\bin\x86\Release\exam.exe
+C:\Users\skach\source\repos\exam\exam\bin\x86\Release\exam.pdb
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.csprojAssemblyReference.cache
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.Main.resources
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.Properties.Resources.resources
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.Second_Form.resources
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.csproj.GenerateResource.cache
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.csproj.CoreCompileInputs.cache
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.exe
+C:\Users\skach\source\repos\exam\exam\obj\x86\Release\exam.pdb
